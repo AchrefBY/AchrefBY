@@ -25,7 +25,7 @@
   - [AI-Banking](https://github.com/AchrefBY/AI-Banking)
   - [Human-Detection](https://github.com/AchrefBY/Human-Detection)
   - [Driver-Fatigue-Detection](https://github.com/AchrefBY/Driver-Fatigue-Detection)
-  - 
+  
 ### Contributions and Involvement
 - 👥 Actively working on a local startup in the AgriTech sector.
 
