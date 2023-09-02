@@ -21,10 +21,10 @@
 - 🤖 Worked on a surgical mask detection machine learning model.
 - 🌡️ Created an IoT environmental monitoring system with sensor data visualization using Grafana.
 - 🚀 Proudly developed these solutions during an intensive hackathon, all in a single night:
-  - [Scraping](https://github.com/AchrefBY/Web-Scraping-Utility)
-  - [AI-Banking](https://github.com/AchrefBY/AI-Loan-Prediction)
-  - [Human-Detection](https://github.com/AchrefBY/Real-Time-Human-Detection)
-  - [Driver-Fatigue-Detection](https://github.com/AchrefBY/Driver-Fatigue-Detection-System)
+  - [Web-Scraping-Utility](https://github.com/AchrefBY/Web-Scraping-Utility)
+  - [AI-Loan-Prediction](https://github.com/AchrefBY/AI-Loan-Prediction)
+  - [Real-Time-Human-Detection](https://github.com/AchrefBY/Real-Time-Human-Detection)
+  - [Driver-Fatigue-Detection-System](https://github.com/AchrefBY/Driver-Fatigue-Detection-System)
   
 ### Contributions and Involvement
 - 👥 Actively working on a local startup in the AgriTech sector.
