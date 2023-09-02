@@ -12,21 +12,25 @@
 - 🌐 Aspiring to leverage machine learning to improve and simplify human life.
 
 ### Skills
-- 💻 Proficient in Python, Machine Learning, Cross-platform Development, DevOps, and Cloud (with some experience).
+- 💻 Proficient in Python, Machine Learning, Cross-platform Development, DevOps, and Cloud.
 - 📜 Certified with Azure Fundamentals (AZ-900).
-- 📚 Enrolled in the Machine Learning Specialization by deeplearning.ai on Coursera and planning to take "Machine Learning in Production" from the same authors.
+- 📚 Enrolled in the Machine Learning Specialization by DeepLearning.AI on Coursera and planning to take "Machine Learning in Production" from the same authors.
 
 ### Projects
 - 📱 Developed multiple mobile apps using Flutter and Node.js.
 - 🤖 Worked on a surgical mask detection machine learning model.
 - 🌡️ Created an IoT environmental monitoring system with sensor data visualization using Grafana.
-- 🚀 Check out all my repositories, including those developed during hackathons.
-
+- 🚀 Proudly developed these solutions during an intensive hackathon, all in a single night:
+  - [Scraping](https://github.com/AchrefBY/Scraping)
+  - [AI-Banking](https://github.com/AchrefBY/AI-Banking)
+  - [Human-Detection](https://github.com/AchrefBY/Human-Detection)
+  - [Driver-Fatigue-Detection](https://github.com/AchrefBY/Driver-Fatigue-Detection)
+  - 
 ### Contributions and Involvement
-- 👥 Actively working on a local startup in the agritech sector.
+- 👥 Actively working on a local startup in the AgriTech sector.
 
 ### Connect with Me
-- 📫 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/achrefby/).
+- 📫 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/achref-ben-yahia-4a5123228/).
 - 📧 Email me at [achrefb58@gmail.com](mailto:achrefb58@gmail.com).
 
 Let's connect, collaborate, and make a difference together in the world of ICT engineering and MLOps! 🌟
