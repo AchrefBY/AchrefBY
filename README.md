@@ -1,13 +1,36 @@
 <h1 align="center">Hi 👋, I'm Achref Ben Yahia</h1>
 <h3 align="center">ICT Engineering Student | Future MLOps Specialist 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=achrefby&label=Profile%20views&color=0e75b6&style=flat" alt="achrefby" /> </p>
+### Background
+- 📚 Currently pursuing an ICT Engineering degree.
+- 🔍 Passionate about the incredible advancement of technology and its potential impact on humanity.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=achrefby" alt="achrefby" /></a> </p>
+### Interests and Aspirations
+- 👨‍💻 Fascinated by the fields of ICT engineering and MLOps.
+- 🌐 Aspiring to leverage machine learning to improve and simplify human life.
+
+### Skills
+- 💻 Proficient in Python, Machine Learning, Cross-platform Development, DevOps, and Cloud.
+- 📜 Certified with Azure Fundamentals (AZ-900).
+- 📚 Enrolled in the Machine Learning Specialization by DeepLearning.AI on Coursera and planning to take "Machine Learning in Production" from the same authors.
+
+### Projects
+- 📱 Developed multiple mobile apps using Flutter and Node.js.
+- 🤖 Worked on a surgical mask detection machine learning model.
+- 🌡️ Created an IoT environmental monitoring system with sensor data visualization using Grafana.
+- 🚀 Proudly developed these solutions during an intensive hackathon, all in a single night:
+  - [Web-Scraping-Utility](https://github.com/AchrefBY/Web-Scraping-Utility)
+  - [AI-Loan-Prediction](https://github.com/AchrefBY/AI-Loan-Prediction)
+  - [Real-Time-Human-Detection](https://github.com/AchrefBY/Real-Time-Human-Detection)
+  - [Driver-Fatigue-Detection-System](https://github.com/AchrefBY/Driver-Fatigue-Detection-System)
+  
+### Contributions and Involvement
+- 👥 Actively working on a local startup in the AgriTech sector.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/achref ben yahia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="achref ben yahia" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/achref ben yahia](https://www.linkedin.com/in/achref-ben-yahia-4a5123228/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="achref ben yahia" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
