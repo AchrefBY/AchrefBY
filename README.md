@@ -31,6 +31,6 @@
 
 ### Connect with Me
 - 📫 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/achref-ben-yahia-4a5123228/).
-- 📧 Email me at [achrefb58@gmail.com](mailto:achref.benyahia@eniso.u-sousse.tn).
+- 📧 Email me at [achref.benyahia@eniso.u-sousse.tn](mailto:achref.benyahia@eniso.u-sousse.tn).
 
 Let's connect, collaborate, and make a difference together in the world of ICT engineering and MLOps! 🌟
