@@ -1,36 +1,14 @@
-<div align="center">
-  <h1>Hello, I'm Achref Ben Yahia! 👋</h1>
-  <p>ICT Engineering Student | Future MLOps Specialist 🚀</p>
-</div>
+<h1 align="center">Hi 👋, I'm Achref Ben Yahia</h1>
+<h3 align="center">ICT Engineering Student | Future MLOps Specialist 🚀</h3>
 
-### Background
-- 📚 Currently pursuing an ICT Engineering degree.
-- 🔍 Passionate about the incredible advancement of technology and its potential impact on humanity.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=achrefby&label=Profile%20views&color=0e75b6&style=flat" alt="achrefby" /> </p>
 
-### Interests and Aspirations
-- 👨‍💻 Fascinated by the fields of ICT engineering and MLOps.
-- 🌐 Aspiring to leverage machine learning to improve and simplify human life.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=achrefby" alt="achrefby" /></a> </p>
 
-### Skills
-- 💻 Proficient in Python, Machine Learning, Cross-platform Development, DevOps, and Cloud.
-- 📜 Certified with Azure Fundamentals (AZ-900).
-- 📚 Enrolled in the Machine Learning Specialization by DeepLearning.AI on Coursera and planning to take "Machine Learning in Production" from the same authors.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/achref ben yahia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="achref ben yahia" height="30" width="40" /></a>
+</p>
 
-### Projects
-- 📱 Developed multiple mobile apps using Flutter and Node.js.
-- 🤖 Worked on a surgical mask detection machine learning model.
-- 🌡️ Created an IoT environmental monitoring system with sensor data visualization using Grafana.
-- 🚀 Proudly developed these solutions during an intensive hackathon, all in a single night:
-  - [Web-Scraping-Utility](https://github.com/AchrefBY/Web-Scraping-Utility)
-  - [AI-Loan-Prediction](https://github.com/AchrefBY/AI-Loan-Prediction)
-  - [Real-Time-Human-Detection](https://github.com/AchrefBY/Real-Time-Human-Detection)
-  - [Driver-Fatigue-Detection-System](https://github.com/AchrefBY/Driver-Fatigue-Detection-System)
-  
-### Contributions and Involvement
-- 👥 Actively working on a local startup in the AgriTech sector.
-
-### Connect with Me
-- 📫 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/achref-ben-yahia-4a5123228/).
-- 📧 Email me at [achref.benyahia@eniso.u-sousse.tn](mailto:achref.benyahia@eniso.u-sousse.tn).
-
-Let's connect, collaborate, and make a difference together in the world of ICT engineering and MLOps! 🌟
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
