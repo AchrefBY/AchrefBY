@@ -32,10 +32,7 @@
 <p align="left">
 <a href="[https://linkedin.com/in/achref ben yahia](https://www.linkedin.com/in/achref-ben-yahia-4a5123228/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="achref ben yahia" height="30" width="40" /></a>
 </p>
-- 📧 Email me at [achref.benyahia@eniso.u-sousse.tn](mailto:achref.benyahia@eniso.u-sousse.tn).
-<a href="mailto:achref.benyahia@eniso.u-sousse.tn"><img align="center" src="https://www.flaticon.com/free-icon/linkedin_3536505" height="30" width="40" /></a>
-
-<a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by riajulislam - Flaticon</a>
+- 📧 Email me at <a href="mailto:achref.benyahia@eniso.u-sousse.tn">achref.benyahia@eniso.u-sousse.tn</a>
 
 
 
