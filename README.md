@@ -33,6 +33,7 @@
 <a href="[https://linkedin.com/in/achref ben yahia](https://www.linkedin.com/in/achref-ben-yahia-4a5123228/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="achref ben yahia" height="30" width="40" /></a>
 </p>
 - 📧 Email me at [achref.benyahia@eniso.u-sousse.tn](mailto:achref.benyahia@eniso.u-sousse.tn).
+![github](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white)]
 
 
 <h3 align="left">Languages and Tools:</h3>
