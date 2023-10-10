@@ -34,7 +34,7 @@
 </p>
 - 📧 Email me at <a href="mailto:achref.benyahia@eniso.u-sousse.tn">achref.benyahia@eniso.u-sousse.tn</a>
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/CA1GwGy"  ><a href="//imgur.com/a/CA1GwGy">mail icon</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
+<img src="//imgur.com/a/CA1GwGy"/>
 
 
 <h3 align="left">Languages and Tools:</h3>
