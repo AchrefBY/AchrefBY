@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Achref Ben Yahia</h1>
 <h3 align="center">ICT Engineering Student | MLOps Enthusiast 🚀</h3>
 
+
+
 ### Background
 - 📚 Currently pursuing an ICT Engineering degree.
 - 🔍 Passionate about the incredible advancement of technology and its potential impact on humanity.
@@ -101,6 +103,10 @@
     </td>
   </tr>
 </table>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" height="340"/>
 
 <br>
 
