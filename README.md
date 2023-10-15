@@ -46,7 +46,7 @@
   </a> 
 </p>
 <h3 align="left">Languages and Tools:</h3>
-<table>
+<table align="center">
   <tr>
     <th>Programming Languages</th>
     <td>
@@ -110,7 +110,9 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="480" height="340"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="470" height="340"/>
+</div>
 
 <br>
 
