@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Achref Ben Yahia</h1>
-<h3 align="center">ICT Engineering Student | MLOps Enthusiast 🚀</h3>
+<div align="center">
+  <h3 align="center">ICT Engineering Student | MLOps Enthusiast 🚀</h3>
+  <img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="120" height="90"/>
+</div>
+
 
 
 
@@ -32,12 +36,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  &nbsp;<a href="https://www.linkedin.com/in/achref-ben-yahia-4a5123228" target="blank" >
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="achref ben yahia" height="40" width="40" style=" margin-right: 80px;"  />
+  &nbsp;&nbsp;<a href="https://www.linkedin.com/in/achref-ben-yahia-4a5123228" target="blank" >
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="achref ben yahia" height="45" width="45" />
   </a>
 </p>
 <p align="left">
-  <a href="mailto:achref.benyahia@eniso.u-sousse.tn">
+ &nbsp;<a href="mailto:achref.benyahia@eniso.u-sousse.tn">
     <img src="https://github.com/astrit/css.gg/blob/master/icons/png/white/mail.png" alt="mail" width="50" height="50" style="fill: white; vertical-align: top;" />
   </a> 
 </p>
@@ -106,7 +110,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="470" height="340"/>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="490" height="340"/>
 
 <br>
 
