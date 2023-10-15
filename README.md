@@ -30,24 +30,18 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/achref-ben-yahia-4a5123228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="achref ben yahia" height="30" width="40" /></a>
-<a href="mailto:achref.benyahia@example.com">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="email">
-    <g>
-      <path fill="#fff" d="M22.5 17.5h-15l1-10h15z"></path>
-      <path fill="#cce7ff" d="m8.3 9.5-.8 8h15l.8-8z"></path>
-      <path fill="none" stroke="#1078ff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M.5 15.5h5M2.5 12.5H6M4.5 9.5h2M22.5 17.5h-15l1-10h15z"></path>
-      <path fill="none" stroke="#1078ff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="m8.5 7.5 7.5 6 7.5-6z"></path>
-    </g>
-    <path fill="none" d="M0 0h24v24H0z"></path>
-  </svg>
-</a>
+  <a href="https://www.linkedin.com/in/achref-ben-yahia-4a5123228" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="achref ben yahia" height="30" width="40" style="vertical-align: top; margin-right: 80px;" />
+  </a>
 </p>
-- 📧 Email me at <a href="mailto:achref.benyahia@eniso.u-sousse.tn">achref.benyahia@eniso.u-sousse.tn</a>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="email"><g><path fill="#fff" d="M22.5 17.5h-15l1-10h15z"></path><path fill="#cce7ff" d="m8.3 9.5-.8 8h15l.8-8z"></path><path fill="none" stroke="#1078ff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M.5 15.5h5M2.5 12.5H6M4.5 9.5h2M22.5 17.5h-15l1-10h15z"></path><path fill="none" stroke="#1078ff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="m8.5 7.5 7.5 6 7.5-6z"></path></g><path fill="none" d="M0 0h24v24H0z"></path></svg>
-<img src="data:image/svg+xml, %3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' id='email'%3E%3Cg%3E%3Cpath fill='%23fff' d='M22.5 17.5h-15l1-10h15z'%3E%3C/path%3E%3Cpath fill='%23cce7ff' d='m8.3 9.5-.8 8h15l.8-8z'%3E%3C/path%3E%3Cpath fill='none' stroke='%231078ff' stroke-linecap='round' stroke-linejoin='round' stroke-miterlimit='10' d='M.5 15.5h5M2.5 12.5H6M4.5 9.5h2M22.5 17.5h-15l1-10h15z'%3E%3C/path%3E%3Cpath fill='none' stroke='%231078ff' stroke-linecap='round' stroke-linejoin='round' stroke-miterlimit='10' d='m8.5 7.5 7.5 6 7.5-6z'%3E%3C/path%3E%3C/g%3E%3Cpath fill='none' d='M0 0h24v24H0z'%3E%3C/path%3E%3C/svg%3E" alt="Email Icon">
+<p align="left">
+  <a href="mailto:achref.benyahia@eniso.u-sousse.tn">
+    <img src="https://github.com/astrit/css.gg/blob/master/icons/svg/mail.svg" alt="mail" width="50" height="50" style="fill: white; vertical-align: top;" />
+  </a> 
+</p>
 
-<img src="data:image/svg+xml,%3Csvg+xmlns='http://www.w3.org/2000/svg'+viewBox='0+0+24+24'+id='email'%3E%3Cg%3E%3Cpath+fill='%23fff'+d='M22.5+17.5h-15l1-10h15z'%3E%3C/path%3E%3Cpath+fill='%23cce7ff'+d='m8.3+9.5-.8+8h15l.8-8z'%3E%3C/path%3E%3Cpath+fill='none'+stroke='%231078ff'+stroke-linecap='round'+stroke-linejoin='round'+stroke-miterlimit='10'+d='M.5+15.5h5M2.5+12.5H6M4.5+9.5h2M22.5+17.5h-15l1-10h15z'%3E%3C/path%3E%3Cpath+fill='none'+stroke='%231078ff'+stroke-linecap='round'+stroke-linejoin='round'+stroke-miterlimit='10'+d='m8.5+7.5+7.5+6+7.5-6z'%3E%3C/path%3E%3C/g%3E%3Cpath+fill='none'+d='M0+0h24v24H0z'%3E%3C/path%3E%3C/svg%3E" alt="Email Icon">
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
