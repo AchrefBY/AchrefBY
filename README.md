@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Achref Ben Yahia</h1>
-<h3 align="center">ICT Engineering Student | Future MLOps Specialist 🚀</h3>
+<h3 align="center">ICT Engineering Student | MLOps Enthusiast 🚀</h3>
 
 ### Background
 - 📚 Currently pursuing an ICT Engineering degree.
