@@ -39,15 +39,7 @@
     <img src="https://github.com/astrit/css.gg/blob/master/icons/png/white/mail.png" alt="mail" width="50" height="50" style="fill: white; vertical-align: top;" />
   </a> 
 </p>
-
-
-
-
-
-
-
 <h3 align="left">Languages and Tools:</h3>
-
 <table>
   <tr>
     <th>Programming Languages</th>
@@ -110,9 +102,7 @@
   </tr>
 </table>
 
-
-
-
+<br>
 
 Let's connect, collaborate, and make a difference together in the world of ICT engineering and MLOps! 🌟
 
