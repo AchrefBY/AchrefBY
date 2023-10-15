@@ -30,10 +30,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/achref-ben-yahia-4a5123228" target="blank">
+  &nbsp;<a href="https://www.linkedin.com/in/achref-ben-yahia-4a5123228" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="achref ben yahia" height="30" width="40" style="vertical-align: top; margin-right: 80px;" />
   </a>
 </p>
+
 <p align="left">
   <a href="mailto:achref.benyahia@eniso.u-sousse.tn">
     <img src="https://github.com/astrit/css.gg/blob/master/icons/svg/mail.svg" alt="mail" width="50" height="50" style="fill: white; vertical-align: top;" />
