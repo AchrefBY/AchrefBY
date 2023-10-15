@@ -31,8 +31,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/achref-ben-yahia-4a5123228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="achref ben yahia" height="30" width="40" /></a>
-</p>
-- 📧 Email me at <a href="mailto:achref.benyahia@eniso.u-sousse.tn">achref.benyahia@eniso.u-sousse.tn</a>
 <a href="mailto:achref.benyahia@example.com">
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="email">
     <g>
@@ -44,6 +42,8 @@
     <path fill="none" d="M0 0h24v24H0z"></path>
   </svg>
 </a>
+</p>
+- 📧 Email me at <a href="mailto:achref.benyahia@eniso.u-sousse.tn">achref.benyahia@eniso.u-sousse.tn</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
